@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "packs": [
+    {
+      "lang": "en",
+      "name": "English meaning",
+      "file": "en.json",
+      "version": 3,
+      "bytes": 1639057,
+      "sha256": "5e1c2f06b9c98b2db96d595c48ea79873185e8d6542b84b7e2882e3d6d61f6b1"
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "file": "es.json",
+      "version": 3,
+      "bytes": 774171,
+      "sha256": "2ea8effc5b61446fcd1f579b4af3eeffb8339d8c8660f7d463bd09ed0b18ab50"
+    },
+    {
+      "lang": "fr",
+      "name": "French",
+      "file": "fr.json",
+      "version": 3,
+      "bytes": 1056232,
+      "sha256": "454d81a20ed1f62ea6f03f693f90621543c15f36312a3bbb2f3595c02499fa7b"
+    },
+    {
+      "lang": "pt",
+      "name": "Portuguese",
+      "file": "pt.json",
+      "version": 3,
+      "bytes": 908418,
+      "sha256": "52aaf5557bed5afb0be18ab562e27e848839584a5dc71ce4ac89de60c9db509f"
+    },
+    {
+      "lang": "zh",
+      "name": "Chinese",
+      "file": "zh.json",
+      "version": 3,
+      "bytes": 775635,
+      "sha256": "893653f8db6ddf59371a49fe13b272260c5f6fd30f7eba3e7b4e0aeb29a9f125"
+    },
+    {
+      "lang": "ar",
+      "name": "Arabic",
+      "file": "ar.json",
+      "version": 3,
+      "bytes": 263830,
+      "sha256": "23bf56734a1404adaeb4c5f6c91046c63fddb92e29a2fe6a5bb17749057e4df5"
+    },
+    {
+      "lang": "de",
+      "name": "German",
+      "file": "de.json",
+      "version": 3,
+      "bytes": 718711,
+      "sha256": "6f4003cf302b8a4465273517f6b4049b7cd4790b2c971639cf0e98edc91da17a"
+    },
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "file": "ru.json",
+      "version": 3,
+      "bytes": 1050627,
+      "sha256": "4f5b0c5c94fac9a5eac868e9eac93fda127499caf1dc54d7c817e2e889a3505b"
+    },
+    {
+      "lang": "hi",
+      "name": "Hindi",
+      "file": "hi.json",
+      "version": 3,
+      "bytes": 895503,
+      "sha256": "4b8aecd691eaef6def86c83176f814ca4c6be16defc2dec261253d48e222b998"
+    },
+    {
+      "lang": "uk",
+      "name": "Ukrainian",
+      "file": "uk.json",
+      "version": 3,
+      "bytes": 411258,
+      "sha256": "b7bd3e9937425adf6ccfbfb094c55015b2952dc2ad15c3b7baad49c806e48b75"
+    },
+    {
+      "lang": "ko",
+      "name": "Korean",
+      "file": "ko.json",
+      "version": 3,
+      "bytes": 322438,
+      "sha256": "bb84e986bb874564ee1d4e4b3efa87fef0c458bda62069e3886fe933763a6d09"
+    },
+    {
+      "lang": "vi",
+      "name": "Vietnamese",
+      "file": "vi.json",
+      "version": 3,
+      "bytes": 103263,
+      "sha256": "b2cfe044f84dc129a2c144518cf65d2f9389a01c930d118c144de2ef729966cc"
+    }
+  ]
+}
