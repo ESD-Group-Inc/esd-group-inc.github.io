@@ -3,6 +3,5 @@ Closed-class words missing from WordNet (the, and, to, that, this, and similar) 
 Word list order: google-10000-english 20k list, used only to prefer common headwords.
 Spanish, French, Portuguese, Chinese, Arabic: Open Multilingual Wordnet 1.4 (CC BY 3.0 for the language sets used here). English lemma of the synset maps to the foreign lemma.
 German, Russian, Hindi: FreeDict dictd releases. When a headword has several senses, the one that matches the WordNet part of speech is kept, and a MUSE hint is used only to pick that sense. The hint text is not copied into the pack.
-Ukrainian, Korean, Vietnamese: Facebook MUSE bilingual dictionaries, CC BY-NC 4.0, used only because WordNet and FreeDict have no pack for those languages.
 Upload the dict-packs folder to https://esd-group-inc.github.io/dict/ so the app can download a language once.
 Do not put the non-English JSON files in public/dict. The phone app keeps only English built in.
