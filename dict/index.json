@@ -72,30 +72,6 @@
       "version": 3,
       "bytes": 895503,
       "sha256": "4b8aecd691eaef6def86c83176f814ca4c6be16defc2dec261253d48e222b998"
-    },
-    {
-      "lang": "uk",
-      "name": "Ukrainian",
-      "file": "uk.json",
-      "version": 3,
-      "bytes": 411258,
-      "sha256": "b7bd3e9937425adf6ccfbfb094c55015b2952dc2ad15c3b7baad49c806e48b75"
-    },
-    {
-      "lang": "ko",
-      "name": "Korean",
-      "file": "ko.json",
-      "version": 3,
-      "bytes": 322438,
-      "sha256": "bb84e986bb874564ee1d4e4b3efa87fef0c458bda62069e3886fe933763a6d09"
-    },
-    {
-      "lang": "vi",
-      "name": "Vietnamese",
-      "file": "vi.json",
-      "version": 3,
-      "bytes": 103263,
-      "sha256": "b2cfe044f84dc129a2c144518cf65d2f9389a01c930d118c144de2ef729966cc"
     }
   ]
 }
